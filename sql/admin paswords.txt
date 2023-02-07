@@ -1,0 +1,9 @@
+admin emails & pass : 
+mahateer@umt.edu.pk 	pass : 1234
+ahmir@umt.edu.pk		pass : 1234
+abdi@umt.edu.pk		pass : 1234
+minam@umt.edu.pk 	pass : 1234
+
+--------
+user_mail verification is disabled so 
+after new customer signups verify the cutomers manually through passing value 0 to 1 in database table_name is 'tbl_customer' and column name is 'sust_status' .
